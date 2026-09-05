@@ -30,7 +30,9 @@ Then open `http://127.0.0.1:8000/`.
 
 ## Public deployment
 
-The public URL and repository are recorded in `docs/deployment.md` after GitHub Pages deployment.
+Public website: https://sephy57.github.io/marci-metzger-home-redesign/
+
+GitHub repository: https://github.com/Sephy57/marci-metzger-home-redesign
 
 ## Assets and source
 
